@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferva um pouco de água em uma panela.</title>
+</head>
+<body>
+    <h1>Ferva um pouco de água em uma panela</h1>
+    <p>Use uma panela que contenha pelo menos 2 L de água. Acrescente 2 ½ xícaras (600 ml) <br>
+        do líquido e coloque-a em uma chama média no fogão por alguns minutos.
+    </p>
+
+    <ul>
+        <li>
+            A panela tem que ter o tamanho ideal para conter a água e o macarrão ficar mergulhado.
+        </li>
+    </ul>
+    <img src="panela.JPG" width="300" height="200">
+</body>
+</html>
