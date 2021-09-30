@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br" id="top">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acrescente o macarrão instantâneo.</title>
+</head>
+<body>
+    <h1>Acrescente o macarrão instantâneo.</h1>
+    <p>Coloque o miojo na água devagar e use um par de hashis longos para mergulhá-lo algumas vezes e acelerar o processo de cozimento.
+    </p>
+
+    <ul>
+        <li>Se os fios do macarrão são mais longos, coloque todo o "pacote" seco na água.</li>
+        <li>Se os fios são médios, quebre o pacote em alguns pedaços e acrescente um de cada vez.</li>
+        <li>Se os fios são curtos, quebre o pacote em vários pedacinhos e acrescente um de cada vez.</li>
+    </ul>
+
+    <img src="miojo.JPG" width="300" height="200">
+    
+</body>
+<a href="top" class="top">top</a>
+</html>
