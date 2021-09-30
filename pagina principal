@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt=br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>PP'e - Ação 1</title>
+</head>
+
+<body>
+    <header class="header-container">
+    <div class="header">
+        
+            <div class="trace"></div>
+            <div class="trace"></div>
+            <div class="trace"></div>
+            <div class="trace"></div>
+            
+        </label>
+                <div class="menu">
+                    <div class="menu-intens">
+                        <div>
+                            <h1>Macarrão Estantâneo</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <p>Macarrão instantâneo — o famoso "miojo", como é chamado no Brasil — é uma refeição barata, 
+            <br>simples de fazer e popular aqui e em todo o mundo. Ele é vendido em duas formas: cup noodles
+            <br>(no copo) e o miojo tradicional, que vem no pacote. Basta cozinhar o produto, acrescentaro tem-
+            <br>pero (em alguns casos) e comer. Por outro lado, se você quer levar o seu almoço ou jantar de
+            <br>improviso a outro nível, leia as dicas deste artigo para acrescentar queijo, curry,vegetais e
+            <br>até manteiga de amendoim.</p>
+
+            <ol>
+                <li>
+                    <a href="index1.html">Ferva um pouco de água em uma panela.</a>
+                </li>
+
+                <li>
+                    <a href="index2.html">Acrescente o macarrão instantâneo.</a>
+                </li>
+
+                <li>
+                    <a href="index3.html">Acrescente o tempero.</a>
+                </li>
+
+                <li>
+                    <a href="index4.html">Cozinhe o macarrão.</a>
+                </li>
+
+                <li>
+                    <a href="index5.html">Sirva o macarrão.</a>
+                </li>
+            </ol>
+
+
+        </div>
+
+    </header>
+    <main class="container">
+
+    </main>
+    <footer class="footer">
+
+    </footer>
+</body>
+</html>
