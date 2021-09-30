@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acrescente o tempero.</title>
+</head>
+<body>
+    <h1>Acrescente o tempero.</h1>
+
+    <p>Abra o tempero e polvilhe-o na água fervente, já com o miojo;
+    <br>Mexa com hashis ou uma colher para incorporar o sabor.
+    </p>
+
+    <ul>
+        <li>Tenha cuidado para a água quente não espirrar em você.</li>
+    </ul>
+    <img src="tempero.JPG" width="300" height="200">
+</body>
+</html>
