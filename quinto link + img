@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sirva o macarrão.</title>
+</head>
+<body>
+    <h1>Sirva o macarrão.</h1>
+
+    <p>Desligue o fogão depois de cozinhar o miojo e transfira-o comcuidado a uma 
+    <br>tigela grande. Por fim, espere um ou dois minutos se ele estiver fumegando.
+    </p>
+    
+
+    <ul>
+        <li>Coma o miojo com hashis ou um garfo.</li>
+    </ul>
+
+    <img src="sirva.JPG" width="300" height="200">
+</body>
+</html>
