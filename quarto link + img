@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozinhe o macarrão.</title>
+</head>
+<body>
+    <h1>Cozinhe o macarrão.</h1>
+
+    <p>Deixe o macarrão ferver por três ou quatro minutos. Quando ele amolecer, 
+    <br>comece a mexer devagar com os hashis ou uma colher grande. Por fim, ele 
+    <br>vai estar cozido quando os fios começarem a se soltar de vez.
+    </p>
+
+    <ul>
+        <li>O macarrão vai adquirir um tom amarelo claro quando estiver cozido de fato.</li>
+        <li>Fios do miojo vão se soltar aos poucos e se espalhar pela caçarola.
+        <li>Cada fio vai ficar ondulado quando você tirar tudo da caçarola.</li>
+    </ul>
+    <img src="cozinhe.JPG" width="300" height="200">
+</body>
+</html>
